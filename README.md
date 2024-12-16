@@ -1,5 +1,5 @@
 # Brain-Tumor-CNN
-A Convolutional Neural Network with the VGG Architecture.
+A Convolutional Neural Network created from scratch using the VGG Architecture.
 This particular model was implemented in a short timespan so beware it MAY be a bit rough around the edges but I encourage you to look around and make changes as you see fit to potentially improve its performance.
 The model was tested/trained against the following metrics:
 1. accuracy
