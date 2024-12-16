@@ -6,6 +6,7 @@ The model was tested/trained against the following metrics:
 2. loss
 3. recall
 4. f1 score
+
 The Model was created on Jupyter Labs, But alternatively it can even run on VSCode with a similar interface if need be.
 I coded it in an older version of Python (3.9.20) as the latest one doesn't run tensorflow-gpu which i needed to alleviate a potential OOM error (I didn't want to fry my GPU on the first go :]).
 The dataset was downloaded from kaggle, I've included its zip file for ease of access.
